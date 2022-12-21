@@ -10,7 +10,7 @@ public class PrimeiroPrograma {
 		Livros livros = new Livros();
 		
 		System.out.println(gato);
-		System.out.println();
+		System.out.println(livros);
 		
 		
 		/*int a = 956;
